@@ -1,6 +1,6 @@
 <h2 align="center">Whatsup shawty </h2>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/719954133712633910??theme=light&bg=141328&animated=true&borderRadius=30px&hideTimestamp=true)](https://discord.com/users/719954133712633910)
+[![Discord Presence](https://lanyard.cnrad.dev/api/719954133712633910)](https://discord.com/users/719954133712633910)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=BetyarBaszo&count_private=true&show_icons=true&include_all_commits=true)
 
