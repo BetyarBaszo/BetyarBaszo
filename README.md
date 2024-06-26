@@ -1,6 +1,4 @@
-<h2 align="center">Whatsup shawty </h2>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/719954133712633910)](https://discord.com/users/719954133712633910)
+<h2 align="center">Private repo warrior </h2>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=BetyarBaszo&count_private=true&show_icons=true&include_all_commits=true)
 
